@@ -29,7 +29,7 @@ PRIVACY = {
                 "Before any ads are shown, the App asks for your consent through Google’s consent tool (User Messaging Platform), as required by the GDPR. You can change your choice at any time from “Privacy Settings” on the App’s title screen.",
             ]),
             ("Information stored on your device", [
-                "The App does not save your runs, scores or any other game data. Nothing is sent to us.",
+                "Your best score is stored only on your device. It is never sent to us, and the App saves no other game data.",
                 "When you tap SHARE, the result card image is passed to the iOS share sheet. It is saved to Photos or sent elsewhere only if you choose to do so there.",
             ]),
             ("Children", ["The App is not directed at children under 13."]),
@@ -54,7 +54,7 @@ PRIVACY = {
                 "Bevor Werbung angezeigt wird, bittet die App gemäß DSGVO über das Einwilligungstool von Google (User Messaging Platform) um deine Einwilligung. Du kannst deine Auswahl jederzeit über „Datenschutz-Einstellungen“ auf dem Startbildschirm der App ändern.",
             ]),
             ("Auf deinem Gerät gespeicherte Daten", [
-                "Die App speichert weder Spielrunden noch Punktzahlen oder andere Spieldaten. Es wird nichts an uns gesendet.",
+                "Deine Bestpunktzahl wird nur auf deinem Gerät gespeichert. Sie wird niemals an uns gesendet, und die App speichert keine weiteren Spieldaten.",
                 "Wenn du auf SHARE tippst, wird das Bild deiner Ergebniskarte an das iOS-Teilen-Menü übergeben. Es wird nur dann in Fotos gespeichert oder weitergegeben, wenn du das dort auswählst.",
             ]),
             ("Kinder", ["Die App richtet sich nicht an Kinder unter 13 Jahren."]),
@@ -79,7 +79,7 @@ PRIVACY = {
                 "Avant d’afficher des publicités, l’Application demande votre consentement via l’outil de consentement de Google (User Messaging Platform), conformément au RGPD. Vous pouvez modifier votre choix à tout moment depuis « Paramètres de confidentialité » sur l’écran d’accueil de l’Application.",
             ]),
             ("Informations stockées sur votre appareil", [
-                "L’Application n’enregistre ni vos parties, ni vos scores, ni aucune autre donnée de jeu. Rien ne nous est envoyé.",
+                "Votre meilleur score est stocké uniquement sur votre appareil. Il ne nous est jamais envoyé, et l’Application n’enregistre aucune autre donnée de jeu.",
                 "Lorsque vous touchez SHARE, l’image de votre carte de résultat est transmise au menu de partage d’iOS. Elle n’est enregistrée dans Photos ou envoyée ailleurs que si vous le choisissez.",
             ]),
             ("Enfants", ["L’Application ne s’adresse pas aux enfants de moins de 13 ans."]),
@@ -104,7 +104,7 @@ PRIVACY = {
                 "Antes de mostrar anuncios, la App solicita tu consentimiento mediante la herramienta de consentimiento de Google (User Messaging Platform), tal como exige el RGPD. Puedes cambiar tu elección en cualquier momento desde «Ajustes de privacidad» en la pantalla de inicio de la App.",
             ]),
             ("Información guardada en tu dispositivo", [
-                "La App no guarda tus partidas, tus puntuaciones ni ningún otro dato de juego. No se nos envía nada.",
+                "Tu mejor puntuación se guarda solo en tu dispositivo. Nunca se nos envía, y la App no guarda ningún otro dato de juego.",
                 "Al tocar SHARE, la imagen de tu tarjeta de resultado se pasa al menú de compartir de iOS. Solo se guarda en Fotos o se envía a otro sitio si tú lo eliges allí.",
             ]),
             ("Menores", ["La App no está dirigida a menores de 13 años."]),
@@ -129,7 +129,7 @@ PRIVACY = {
                 "Prima di mostrare annunci, l’App chiede il tuo consenso tramite lo strumento di consenso di Google (User Messaging Platform), come richiesto dal GDPR. Puoi modificare la tua scelta in qualsiasi momento da “Impostazioni privacy” nella schermata iniziale dell’App.",
             ]),
             ("Informazioni salvate sul dispositivo", [
-                "L’App non salva le tue partite, i tuoi punteggi né altri dati di gioco. Non ci viene inviato nulla.",
+                "Il tuo miglior punteggio viene salvato solo sul tuo dispositivo. Non ci viene mai inviato e l’App non salva altri dati di gioco.",
                 "Quando tocchi SHARE, l’immagine della tua scheda risultato viene passata al menu di condivisione di iOS. Viene salvata in Foto o inviata altrove solo se lo scegli tu.",
             ]),
             ("Minori", ["L’App non è rivolta a minori di 13 anni."]),
@@ -154,7 +154,7 @@ PRIVACY = {
                 "本アプリは、GDPRに基づき、広告を表示する前にGoogle社の同意管理ツール（User Messaging Platform）で同意を確認します。選択内容は、本アプリのタイトル画面の「プライバシー設定」からいつでも変更できます。",
             ]),
             ("端末内に保存する情報", [
-                "本アプリは、プレイ内容やスコアなどのゲームデータを保存しません。外部に送信することもありません。",
+                "ベストスコアは、お使いの端末内にのみ保存されます。外部に送信されることはありません。それ以外のゲームデータは保存しません。",
                 "「SHARE」をタップすると、結果カードの画像がiOSの共有シートに渡されます。写真への保存や他のアプリへの送信は、そこでユーザーが選んだ場合にのみ行われます。",
             ]),
             ("お子様について", ["本アプリは13歳未満のお子様を対象としていません。"]),
